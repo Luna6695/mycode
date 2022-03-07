@@ -1,12 +1,7 @@
-print ("Hello Team!") 
+#!/usr/bin/env python3
 
+print("ello!")
+print("Did you say, hello?")
+print("No, I said ello, but that\'s close enough.")
 
-'''Hello, this is for practice
-
-    Contact: the queen 
-    
-
-    Purpose: to receive some rice'''
-
-# display to standard out 
-print ('Hello') #Print() is a standard 
+Like a redo
